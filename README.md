@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @asliezgi
 - 👀 I’m interested in math and compsci
 - 🌱 I’m currently learning new languages
-- 📫 How to reach me: asliezgic@gmail.com
-- ⚡ Fun fact: i love reading manga
+- 📫 How to reach me via mail
+
 
 <!---
 asliezgi/asliezgi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
